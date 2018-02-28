@@ -1,8 +1,6 @@
 language: python
 
 python:
-  - "3.0"
-install:
-  - pip install -r requirements.txt	
+  - "3.0"	
 script:
   - pytest
