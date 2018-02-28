@@ -1,0 +1,8 @@
+language: python
+
+python:
+	-3.0
+before-script:
+	
+script:
+	pytest
